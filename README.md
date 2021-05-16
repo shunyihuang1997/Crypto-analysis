@@ -110,6 +110,3 @@ LSTM:
 
 - Moreover, the model(function) I defined also allow users to adjust epoch, batch size, learning rate by themselves. Users can also choose to use early stopping or not while using the function. 
 
-
-Conclusion:
-- 
